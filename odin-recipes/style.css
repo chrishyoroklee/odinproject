@@ -1,0 +1,17 @@
+h1 {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+    background-color: red;
+}
+
+.Test {
+    color: white;
+    background-color: purple;
+}
+
+button {
+ font-size: 18px;
+ background-color: orange;   
+}
