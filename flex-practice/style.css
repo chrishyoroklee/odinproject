@@ -11,11 +11,21 @@
 
 .headers{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 50px 50px;
 }
 
-.headers h2{
-    padding: 10px
+.logo-text{
+    font-weight: bold;
+    font-size: 28px;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 26px;
+    margin-right: 50px;
 }
 
 #secondary-section1{
@@ -70,6 +80,7 @@
 .section4{
     display: flex;
     justify-content: center;
+    align-items: center;
     padding-bottom: 30px
 }
 
