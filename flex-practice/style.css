@@ -1,0 +1,11 @@
+* {
+    font-family: 'Roboto';
+}
+
+.headers{
+    display: flex;
+}
+
+.headers .nav{
+    flex: 1;
+}
